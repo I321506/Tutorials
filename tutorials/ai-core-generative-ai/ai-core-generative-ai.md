@@ -1344,7 +1344,7 @@ In this example, we'll be demonstrating the following image recognition capabili
 
 #### Identifying Products
 
-Use the upload button to upload relevant [image](images/scene%20detection.png) for context. Add a corresponding query, then hit send.
+Use the upload button to upload relevant [image](images/scene_detection.png) for context. Add a corresponding query, then hit send.
 
 ![img](images/vp1.png)
 
